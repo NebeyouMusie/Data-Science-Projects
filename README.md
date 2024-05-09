@@ -1,5 +1,5 @@
 # Data Science Projects
- - Begineer data science projects on Data Analytics, Data Cleaning and manipulation.
+ - Data science projects on Data Analytics, Data Cleaning and manipulation.
 
 ## Libraries Used
  - Numpy
